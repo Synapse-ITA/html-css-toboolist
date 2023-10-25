@@ -29,27 +29,75 @@ body {
 /* SEZIONE SPAN */
 .editorial {
     background-color: aqua;
-    border-radius: 5px;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 4px 8px;
+    font-size: 70%;
+    margin-left: 5px;
 }
 
 .q1 {
     background-color: purple;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 4px 8px;
+    font-size: 70%;
+
 }
 
 .recruit {
     background-color: rgb(166, 218, 228);
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 4px 8px;
+    font-size: 70%;
 }
 
 .mobile {
     background-color: orange;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 4px 8px;
+    font-size: 70%;
 }
 
 .web {
     background-color: greenyellow;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 4px 8px;
+    font-size: 70%;
+    margin-left: 5px;
 }
 
 .sales {
     background-color: green;
+    color: white;
+    border-radius: 10px;
+    text-align: center;
+    padding: 4px 8px;
+    font-size: 70%;
+    margin-left: 5px;
+}
+
+.task {
+    background-color: rgb(191, 195, 255);
+    border-radius: 5px;
+    text-align: center;
+    padding: 4px 8px;
+}
+
+.section {
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    text-align: center;
+    padding: 4px 8px;
+    border: 1px solid grey;
 }
 
 /* CLASSI SPAZIATURA */ 
@@ -65,11 +113,6 @@ body {
 .m-topbot {
     margin-top: 10px;
     margin-bottom: 10px;
-}
-
-.bg-span1 {
-    background-color: aquamarine;
-    border-radius: 5px;
 }
 
 p {
