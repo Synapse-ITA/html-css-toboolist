@@ -1,0 +1,28 @@
+* {
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.border-header {
+    background-color: rgb(241, 108, 108);
+}
+
+.border-main {
+    background-color: lightblue;
+    border: solid;
+    margin-top: 40px;
+    margin-left: 70px;
+    margin-right: 70px;
+}
+
+.bg-div-principale {
+    background-color: lightslategray;
+}
+
+.space-didascalie {
+    margin-left: 30px;
+}
+
+
+
