@@ -6,6 +6,10 @@
 
 .border-header {
     background-color: rgb(255, 255, 255);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    box-shadow: 5px 5px 5px rgb(144, 144, 145);
 }
 
 .border-main {
@@ -16,6 +20,7 @@
     padding-bottom: 30px;
     padding-top: 10px;
     border-radius: 10px;
+    box-shadow: 10px 10px 10px rgb(144, 144, 145);
 }
 
 .bg-titolo {
@@ -28,7 +33,7 @@ body {
 
 /* SEZIONE SPAN */
 .editorial {
-    background-color: aqua;
+    background-color: rgb(20, 170, 245);
     color: white;
     border-radius: 10px;
     text-align: center;
@@ -38,7 +43,7 @@ body {
 }
 
 .q1 {
-    background-color: purple;
+    background-color: rgb(171, 93, 230);
     color: white;
     border-radius: 10px;
     text-align: center;
@@ -48,7 +53,7 @@ body {
 }
 
 .recruit {
-    background-color: rgb(166, 218, 228);
+    background-color: rgb(44, 198, 171);
     color: white;
     border-radius: 10px;
     text-align: center;
@@ -66,7 +71,7 @@ body {
 }
 
 .web {
-    background-color: greenyellow;
+    background-color: rgb(236, 74, 157);
     color: white;
     border-radius: 10px;
     text-align: center;
@@ -76,7 +81,7 @@ body {
 }
 
 .sales {
-    background-color: green;
+    background-color: rgb(163, 209, 22);
     color: white;
     border-radius: 10px;
     text-align: center;
@@ -86,7 +91,7 @@ body {
 }
 
 .task {
-    background-color: rgb(191, 195, 255);
+    background-color: rgb(20, 170, 245);
     border-radius: 5px;
     text-align: center;
     padding: 4px 8px;
