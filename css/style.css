@@ -12,17 +12,41 @@
     background-color: lightblue;
     border: solid;
     margin-top: 40px;
-    margin-left: 70px;
-    margin-right: 70px;
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 30px;
 }
 
-.bg-div-principale {
-    background-color: lightslategray;
+.bg-titolo {
+    border-bottom: 1px solid rgb(138, 136, 136);
 }
 
+/* CLASSI SPAZIATURA */ 
 .space-didascalie {
     margin-left: 30px;
+    margin-top: 20px;
 }
+
+.m-left {
+    margin-left: 30px;
+}
+
+.m-topbot {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.bg-span1 {
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+
+p {
+    margin-top: 10px;
+}
+
+
+
 
 
 
